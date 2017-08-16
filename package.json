@@ -1,0 +1,38 @@
+{
+  "name": "esgazete-api",
+  "version": "0.0.1",
+  "scripts": {
+    "main": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YucelT94/eskisehir-nobetci-eczaneler"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Yücel Terlemezoğlu",
+  "engines": {
+    "node": "8.2.x",
+    "npm": "5.3.x"
+  },
+  "dependencies": {
+    "blerg": "0.0.3",
+    "cheerio": "^0.22.0",
+    "compression": "^1.7.0",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "jshint-stylish": "^1.0.0",
+    "load-grunt-tasks": "^3.0.0",
+    "time-grunt": "^1.0.0"
+  },
+  "license": "MIT"
+}
