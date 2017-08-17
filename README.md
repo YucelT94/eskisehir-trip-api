@@ -8,5 +8,5 @@ Eskişehir tripadvisor için web servis.
 -node server 
 ```
 
-Tepebaşı İçin:
-https://eskisehir-nobetci-eczaneler.herokuapp.com/nobetcitepebasi
+https://eskisehir-trip-api.herokuapp.com/eskisehirtrip
+https://eskisehir-trip-api.herokuapp.com/eskisehirtripdetail?url=
